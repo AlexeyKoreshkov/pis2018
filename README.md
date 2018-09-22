@@ -3,6 +3,7 @@
 
 ## Лабораторная 1
 * [Диаграмма прецедентов (изображение)](https://raw.githubusercontent.com/AlexeyKoreshkov/pis2018/master/LR1/UMLindividualnoe.png)
+![Рисунок](https://github.com/AlexeyKoreshkov/pis2018/blob/master/LR1/%D0%98%D0%9D%D0%94%D0%98%D0%92%D0%98%D0%94%D0%A3%D0%90%D0%9B%D0%AC%D0%9D%D0%9E%D0%95.png?raw=true)
 * [IDEF0 индивидуальное](https://raw.githubusercontent.com/AlexeyKoreshkov/pis2018/master/LR1/%D0%98%D0%9D%D0%94%D0%98%D0%92%D0%98%D0%94%D0%A3%D0%90%D0%9B%D0%AC%D0%9D%D0%9E%D0%95.png)
 ![Рисунок](https://github.com/AlexeyKoreshkov/pis2018/blob/master/LR1/Scheme_individualnoe.png?raw=true)
 * [Диаграмма классов (индивидуальное)](https://raw.githubusercontent.com/AlexeyKoreshkov/pis2018/master/LR1/Scheme_individualnoe.png)
