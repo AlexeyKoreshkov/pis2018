@@ -21,6 +21,8 @@
 
 ![Рисунок](https://github.com/AlexeyKoreshkov/pis2018/blob/master/LR2/DFDind2.png?raw=true)
 * [DFD 2](https://github.com/AlexeyKoreshkov/pis2018/blob/master/LR2/DFDind2.png)
+
+* [Исполняемый файл](https://github.com/AlexeyKoreshkov/pis2018/blob/master/LR2/DFDind.rsf)
 ## Лабораторная 3
 
 ## Лабораторная 4
