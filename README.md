@@ -17,10 +17,10 @@
 * [Plan-Do-Check](https://github.com/AlexeyKoreshkov/pis2018/blob/master/LR2/IDEF0%D0%BF%D0%BE%D0%B4%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0.png)
 
 ![Рисунок](https://github.com/AlexeyKoreshkov/pis2018/blob/master/LR2/DFDindnew.png?raw=true)
-* [DFD](https://github.com/AlexeyKoreshkov/pis2018/blob/master/LR2/DFDindnew.png?raw=true)
+* [DFD](https://github.com/AlexeyKoreshkov/pis2018/blob/master/LR2/DFDindnew.png)
 
-![Рисунок]()
-* [DFD 2]()
+![Рисунок](https://github.com/AlexeyKoreshkov/pis2018/blob/master/LR2/DFDind2.png?raw=true)
+* [DFD 2](https://github.com/AlexeyKoreshkov/pis2018/blob/master/LR2/DFDind2.png)
 ## Лабораторная 3
 
 ## Лабораторная 4
