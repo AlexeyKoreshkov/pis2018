@@ -32,8 +32,8 @@
 * Цели моделирования: "Автоматизация процесса подготовки приказов об утверждении тем и руководителей ВКР, учета и контроля выполнения плана-графика подготовки ВКР"
 * Тема курсового проекта: "Автоматизация процесса подготовки приказов об утверждении тем и руководителей ВКР, учета и контроля выполнения плана-графика подготовки ВКР"
 
-* [Контекстная диаграмма]()
-![Рисунок](?raw=true)
+* [Контекстная диаграмма](https://github.com/AlexeyKoreshkov/pis2018/blob/master/LR4-6/Kontekstnaya.png)
+![Рисунок](https://github.com/AlexeyKoreshkov/pis2018/blob/master/LR4-6/Kontekstnaya.png?raw=true)
 
 * [Первая декомпозиция IDEF0](https://github.com/AlexeyKoreshkov/pis2018/blob/master/LR4-6/IDEF0(1).png)
 ![Рисунок](https://github.com/AlexeyKoreshkov/pis2018/blob/master/LR4-6/IDEF0(1).png?raw=true)
