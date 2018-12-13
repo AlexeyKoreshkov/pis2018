@@ -47,7 +47,7 @@
 * [Декомпозиция блока А3 IDEF0](https://github.com/AlexeyKoreshkov/pis2018/blob/master/LR4-6/IDEF(13).png)
 ![Рисунок](https://github.com/AlexeyKoreshkov/pis2018/blob/master/LR4-6/IDEF(13).png?raw=true)
 
-## Лабораторная 5
+## Лабораторная 5. DFD диаграммы курсового проекта
 * [DFD блока A11](https://github.com/AlexeyKoreshkov/pis2018/blob/master/LR4-6/DFD(A11).png)
 ![Рисунок](https://github.com/AlexeyKoreshkov/pis2018/blob/master/LR4-6/DFD(A11).png?taw=true)
 
