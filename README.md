@@ -68,6 +68,8 @@
 
 * [DFD блока A33](https://github.com/AlexeyKoreshkov/pis2018/blob/master/LR4-6/DFD(A33).png)
 ![Рисунок](https://github.com/AlexeyKoreshkov/pis2018/blob/master/LR4-6/DFD(A33).png?raw=true)
+
+* [Ссылка на модель](https://github.com/AlexeyKoreshkov/pis2018/blob/master/LR4-6/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C.rsf)
 ## Лабораторная 6
 
 ## Лабораторная 7
