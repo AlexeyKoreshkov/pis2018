@@ -71,5 +71,12 @@
 
 * [Ссылка на модель](https://github.com/AlexeyKoreshkov/pis2018/blob/master/LR4-6/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C.rsf)
 ## Лабораторная 6
+* [Модули](https://github.com/AlexeyKoreshkov/pis2018/blob/master/LR4-6/Moduli.png)
+![Рисунок](https://github.com/AlexeyKoreshkov/pis2018/blob/master/LR4-6/Moduli.png?raw=true)
 
+* [Потоки](https://github.com/AlexeyKoreshkov/pis2018/blob/master/LR4-6/Potoki.png)
+![Рисунок](https://github.com/AlexeyKoreshkov/pis2018/blob/master/LR4-6/Potoki.png?raw=true)
+
+* [Роли](https://github.com/AlexeyKoreshkov/pis2018/blob/master/LR4-6/Roli.png)
+![Рисунок](https://github.com/AlexeyKoreshkov/pis2018/blob/master/LR4-6/Roli.png?raw=true)
 ## Лабораторная 7
