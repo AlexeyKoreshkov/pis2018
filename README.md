@@ -35,8 +35,18 @@
 * [Контекстная диаграмма](https://github.com/AlexeyKoreshkov/pis2018/blob/master/LR4-6/Kontekstnaya.png)
 ![Рисунок](https://github.com/AlexeyKoreshkov/pis2018/blob/master/LR4-6/Kontekstnaya.png?raw=true)
 
-* [Первая декомпозиция IDEF0]()
-![Рисунок]()
+* [Первая декомпозиция IDEF0](https://github.com/AlexeyKoreshkov/pis2018/blob/master/LR4-6/IDEF0(1).png)
+![Рисунок](https://github.com/AlexeyKoreshkov/pis2018/blob/master/LR4-6/IDEF0(1).png?raw=true)
+
+* [Декомпозиция блока А1 IDEF0](https://github.com/AlexeyKoreshkov/pis2018/blob/master/LR4-6/IDEF0(11).png)
+![Рисунок](https://github.com/AlexeyKoreshkov/pis2018/blob/master/LR4-6/IDEF0(11).png?raw=true)
+
+* [Декомпозиция блока А2 IDEF0](https://github.com/AlexeyKoreshkov/pis2018/blob/master/LR4-6/IDEF0(12).png)
+![Рисунок](https://github.com/AlexeyKoreshkov/pis2018/blob/master/LR4-6/IDEF0(12).png?raw=true)
+
+* [Декомпозиция блока А3 IDEF0](https://github.com/AlexeyKoreshkov/pis2018/blob/master/LR4-6/IDEF(13).png)
+![Рисунок](https://github.com/AlexeyKoreshkov/pis2018/blob/master/LR4-6/IDEF(13).png?raw=true)
+
 ## Лабораторная 5
 
 ## Лабораторная 6
