@@ -48,7 +48,26 @@
 ![Рисунок](https://github.com/AlexeyKoreshkov/pis2018/blob/master/LR4-6/IDEF(13).png?raw=true)
 
 ## Лабораторная 5
+* [DFD блока A11](https://github.com/AlexeyKoreshkov/pis2018/blob/master/LR4-6/DFD(A11).png)
+![Рисунок](https://github.com/AlexeyKoreshkov/pis2018/blob/master/LR4-6/DFD(A11).png?taw=true)
 
+* [DFD блока A12](https://github.com/AlexeyKoreshkov/pis2018/blob/master/LR4-6/DFD(A12).png)
+![Рисунок](https://github.com/AlexeyKoreshkov/pis2018/blob/master/LR4-6/DFD(A12).png?raw=true)
+
+* [DFD блока A13](https://github.com/AlexeyKoreshkov/pis2018/blob/master/LR4-6/DFD(A13).png)
+![Рисунок](https://github.com/AlexeyKoreshkov/pis2018/blob/master/LR4-6/DFD(A13).png?raw=true)
+
+* [DFD блока A22](https://github.com/AlexeyKoreshkov/pis2018/blob/master/LR4-6/DFD(A22).png)
+![Рисунок](https://github.com/AlexeyKoreshkov/pis2018/blob/master/LR4-6/DFD(A22).png?raw=true)
+
+* [DFD блока A31](https://github.com/AlexeyKoreshkov/pis2018/blob/master/LR4-6/DFD(A31).png)
+![Рисунок](https://github.com/AlexeyKoreshkov/pis2018/blob/master/LR4-6/DFD(A31).png?raw=true)
+
+* [DFD блока A32](https://github.com/AlexeyKoreshkov/pis2018/blob/master/LR4-6/DFD(A32).png)
+![Рисунок](https://github.com/AlexeyKoreshkov/pis2018/blob/master/LR4-6/DFD(A32).png?raw=true)
+
+* [DFD блока A33](https://github.com/AlexeyKoreshkov/pis2018/blob/master/LR4-6/DFD(A33).png)
+![Рисунок](https://github.com/AlexeyKoreshkov/pis2018/blob/master/LR4-6/DFD(A33).png?raw=true)
 ## Лабораторная 6
 
 ## Лабораторная 7
