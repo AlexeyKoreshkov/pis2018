@@ -1,6 +1,6 @@
 # Отчет о лабораторных работах
 # студент группы ИДБ-15-12 Корешков А.В.
-
+[Курсовой проект](https://github.com/AlexeyKoreshkov/pis2018/blob/master/KP_Koreshkov_A_V_IDB-15-12.docx)
 ## Лабораторная 1
 ![Рисунок](https://github.com/AlexeyKoreshkov/pis2018/blob/master/LR1/UMLindividualnoe.png?raw=true)
 * [Диаграмма прецедентов (изображение)](https://raw.githubusercontent.com/AlexeyKoreshkov/pis2018/master/LR1/UMLindividualnoe.png)
